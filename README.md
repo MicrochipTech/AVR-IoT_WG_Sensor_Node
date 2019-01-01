@@ -1,10 +1,12 @@
 # AVR-IoT-WG-Sensor-Node
 
 To update your firmware:
-1. Click the green "Clone or Download" button and download the .hex file onto your PC
-2. Drag and Drop the .hex file into your CURIOSITY drive (AVR-IoT board)
+1. Click the green "Clone or Download" button and download this project (.zip) file onto your PC
+1. Unzip all project files or simply extract the latest fw version (.hex) 
+1. Drag and Drop the desired .hex file into your CURIOSITY drive (AVR-IoT board)
  
 Note that in the process your AVR-IoT WG board might loose your custom WiFi credentials
 1. Reset your board by unplugging it and plugging it back in 
-2. Navigate back to the CURIOSITY drive, and click on the CLICK-ME.htm
-3. Follow the instructions to re-create a WIFI.CFG file, and drag and drop it into the CURIOSITY drive
+1. If you had not saved a copy of your WIFI.CFG file 
+   1. Navigate to the CURIOSITY drive, click on CLICK-ME.htm and follow the instructions to re-create it
+1. Drag and drop the WIFI.CFG file into the CURIOSITY drive
